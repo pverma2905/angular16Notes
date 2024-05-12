@@ -1,0 +1,26 @@
+what is directive?
+it extend the power of html attribute and to change the appearance or behaviour of a dom element
+
+it is javascript class which is declared as @directive
+it is 3 type
+
+1)structural directive
+2)component directive
+3)attribute directive
+
+
+component directive:-
+componet is a directive when it is load
+
+structural directive:-
+isme * laga hota hai
+*ngIf
+*ngFor
+*ngSwitch
+
+attribute directive:-
+ngClass ngStyle
+
+
+TrackBy:- it used for performance optimisation
+it is not remove old data add in current data 

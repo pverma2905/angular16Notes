@@ -1,0 +1,2 @@
+@Input = from parent to child 
+@Output = from child to parent

@@ -1,0 +1,16 @@
+it start with @ post with ()
+
+@NgModule() define  modules
+@Component() define component
+@Injectable() define service
+@Input and @Output() define properties which send and recive data from the dom
+
+Type of decorator:-
+1)class decorator   -  @Component and @NgModule
+2)property decorator  - for property inside classess eg=>@input @output
+3)method decorator   - inside classess eg=> @HostListener
+4)parameter decorator - paramenter inside class constructor eg=> @inject
+
+decorator are invoked at runtime
+
+@decorator invoked class, property , method, parameter invoked automatically without any external call

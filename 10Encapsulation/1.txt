@@ -1,0 +1,17 @@
+Encapsulation is 3 type:-
+1)emulated(Default): 
+no shadowdom
+style Encapsulation
+it style scope in component only 
+
+2)native/shadow dom:
+shadowdom 
+style Encapsulation
+it style scope is parent to child
+create a shadowdom
+
+3)none:
+no shadowdom
+no style Encapsulation
+it style scope child to parent and parent to child
+no shadow dom

@@ -1,0 +1,2 @@
+ng g m account
+ng g m student --module=app

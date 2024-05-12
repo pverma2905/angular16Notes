@@ -1,0 +1,3 @@
+at leat one module,component
+
+commmunication b/w ts to html is data binding

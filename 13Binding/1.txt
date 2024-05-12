@@ -1,0 +1,7 @@
+Data Binding:-
+interaction between bussiness logic and template 
+
+
+Type of binding
+1)interpollation
+2)

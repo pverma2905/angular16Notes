@@ -1,0 +1,9 @@
+1) rethinking reactivity
+2)angular signal
+3)rxjs interoperability
+4)server side rendering hydration enhanced
+5)improved tooling for standanlone components, pipes
+6)configure zone.js
+7)auto complete in templates
+
+

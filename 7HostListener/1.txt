@@ -1,0 +1,5 @@
+just niche wala automatically fire
+@HostListener('click',['$event])
+show(){
+    alert("Hello")
+}

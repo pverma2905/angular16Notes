@@ -1,0 +1,25 @@
+view Provider class make module levevel or component level
+
+
+class make module level:-
+
+
+class make component level:- 
+when class keep in view provider 
+ viewProviders:[Employee]
+
+  constructor(private obj:Employee){
+    obj.show()
+  }
+
+
+
+  console.log("employee class loaded")
+export class Employee {
+   constructor(){
+    console.log("employee constructor is loaded")
+   }
+   show(){
+    console.log("employee show is called")
+   }
+}
